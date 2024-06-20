@@ -1,0 +1,6 @@
+@FilterWordRestful_HostAddress = http://localhost:5288
+
+GET {{FilterWordRestful_HostAddress}}/WordFilter/
+Accept: application/json
+
+###
